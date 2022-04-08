@@ -1,0 +1,13 @@
+[0;33mOptions [0;37m:
+
+    [0;35m--help[0;33m Display this help
+    [0;35m-L --level[0;37m=[0;33m{[0;32mnum[0;33m}[0;37m Start Tetris at level num [0;33m([0;36mdef[0;37m: [0;31m1[0;33m)
+    [0;35m-l --key-left[0;37m=[0;33m{[0;32mK[0;33m}[0;37m Move the tetrimino [0;32mLEFT [0;37musing the K key [0;33m([0;36mdef[0;37m: [0;31mleft arrow[0;33m)
+    [0;35m-r --key-right[0;37m=[0;33m{[0;32mK[0;33m}[0;37m Move the tetrimino [0;32mRIGHT [0;37musing the K key [0;33m([0;36mdef[0;37m: [0;31mright arrow[0;33m)
+    [0;35m-t --key-turn[0;37m=[0;33m{[0;32mK[0;33m}[0;37m [0;32mTURN [0;37mthe tetrimino clockwise 90d using the K key [0;33m([0;36mdef[0;37m: [0;31mtop arrow[0;33m)
+    [0;35m-d --key-drop[0;37m=[0;33m{[0;32mK[0;33m}[0;37m [0;32mDROP [0;37mthe tetrimino using the K key [0;33m([0;36mdef[0;37m: [0;31mdown arrow[0;33m)
+    [0;35m-q --key-quit[0;37m=[0;33m{[0;32mK[0;33m}[0;37m [0;32mQUIT [0;37mthe game using the K key [0;33m([0;36mdef[0;37m: [0;33m‘[0;31mq[0;33m’[0;31m key[0;33m)
+    [0;35m-p --key-pause[0;37m=[0;33m{[0;32mK[0;33m}[0;37m [0;32mPAUSE[0;37m/[0;32mRESTART [0;37mthe game using the K key [0;33m([0;36mdef[0;37m: [0;31mspace bar[0;33m)
+    [0;35m--map-size[0;37m=[0;33m{[0;32mrow[0;37m,[0;32mcol[0;33m}[0;37m Set the numbers of [0;32mrows [0;37mand [0;32mcolumns [0;37mof the map [0;33m([0;36mdef[0;37m: [0;31m20[0;37m,[0;31m10[0;33m)
+    [0;35m-w --without-next[0;37m [0;32mHide [0;37mnext tetrimino [0;33m([0;36mdef[0;37m: [0;31mfalse[0;33m)
+    [0;35m-D --debug[0;37m [0;32mDebug [0;37mmode [0;33m([0;36mdef[0;37m: [0;31mfalse[0;33m)[0;37m
